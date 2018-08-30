@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# Rails学習メモ
+
+- [フォルダ構造](http://railsdoc.com/rails_base)
